@@ -1,4 +1,4 @@
-# Fully Responsive eCommerce Website 🛒
+# Cara - Fully Responsive eCommerce Website 🛒
 
 This project is a fully responsive, multipage eCommerce website created using HTML, CSS, and JavaScript. It includes essential pages like Home, Shop, Blog, About, Contact, Cart, and a dedicated Product Page. This project is designed to serve as a comprehensive guide for building and deploying a functional eCommerce website from scratch.
 
